@@ -1,6 +1,11 @@
 # :zap: React 와 Node.js 연동하기
 
+![localhost_3000_](https://user-images.githubusercontent.com/95972251/201819572-4b93c816-76a3-4e95-8538-cc5de240b982.png)
+
+:sparkles: React 와 Node.js 연동 예제 :sparkles:
+
 ## :tada: React 프로젝트 생성.
+- React 프로젝트 생성.
 ```bash
 yarn create react-app myreact
 ```
@@ -101,8 +106,8 @@ export default App;
   },
 ```
 
-- 이후 상위 폴더에서 `yarn start`시 React, Node.js이 동시에 작동함.
-
+- 이후 상위 폴더에서 `yarn start`시 React, Node.js이 동시에 작동하며, 콘솔을 확인하면 다음과 같은 내용이 나온다.
+<img width="793" alt="images_sae1013_post_c73e0488-b94a-42ac-a456-f86b2d24a787_스크린샷 2021-10-20 오후 6 16 21" src="https://user-images.githubusercontent.com/95972251/201819586-11e7921d-6dd0-4cd9-9ca9-7a5716c215df.png">
 
 ## 📎 출처
 - 출처1: https://baegofda.tistory.com/210
